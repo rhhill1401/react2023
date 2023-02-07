@@ -1,0 +1,240 @@
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-BoldItalic.eot');
+    src: local('Cadiz Bold Italic'), local('Cadiz-BoldItalic'),
+        url('Cadiz-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-BoldItalic.woff2') format('woff2'),
+        url('Cadiz-BoldItalic.woff') format('woff'),
+        url('Cadiz-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-Black.eot');
+    src: local('Cadiz Black'), local('Cadiz-Black'),
+        url('Cadiz-Black.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-Black.woff2') format('woff2'),
+        url('Cadiz-Black.woff') format('woff'),
+        url('Cadiz-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-BlackItalic.eot');
+    src: local('Cadiz Black Italic'), local('Cadiz-BlackItalic'),
+        url('Cadiz-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-BlackItalic.woff2') format('woff2'),
+        url('Cadiz-BlackItalic.woff') format('woff'),
+        url('Cadiz-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-SemiBoldItalic.eot');
+    src: local('Cadiz SemiBold Italic'), local('Cadiz-SemiBoldItalic'),
+        url('Cadiz-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-SemiBoldItalic.woff2') format('woff2'),
+        url('Cadiz-SemiBoldItalic.woff') format('woff'),
+        url('Cadiz-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-LightItalic.eot');
+    src: local('Cadiz Light Italic'), local('Cadiz-LightItalic'),
+        url('Cadiz-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-LightItalic.woff2') format('woff2'),
+        url('Cadiz-LightItalic.woff') format('woff'),
+        url('Cadiz-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-ExtraBold.eot');
+    src: local('Cadiz ExtraBold'), local('Cadiz-ExtraBold'),
+        url('Cadiz-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-ExtraBold.woff2') format('woff2'),
+        url('Cadiz-ExtraBold.woff') format('woff'),
+        url('Cadiz-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-Italic.eot');
+    src: local('Cadiz Italic'), local('Cadiz-Italic'),
+        url('Cadiz-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-Italic.woff2') format('woff2'),
+        url('Cadiz-Italic.woff') format('woff'),
+        url('Cadiz-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cadiz Ultra';
+    src: url('Cadiz-UltraItalic.eot');
+    src: local('Cadiz Ultra Italic'), local('Cadiz-UltraItalic'),
+        url('Cadiz-UltraItalic.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-UltraItalic.woff2') format('woff2'),
+        url('Cadiz-UltraItalic.woff') format('woff'),
+        url('Cadiz-UltraItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-Bold.eot');
+    src: local('Cadiz Bold'), local('Cadiz-Bold'),
+        url('Cadiz-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-Bold.woff2') format('woff2'),
+        url('Cadiz-Bold.woff') format('woff'),
+        url('Cadiz-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-ThinItalic.eot');
+    src: local('Cadiz Thin Italic'), local('Cadiz-ThinItalic'),
+        url('Cadiz-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-ThinItalic.woff2') format('woff2'),
+        url('Cadiz-ThinItalic.woff') format('woff'),
+        url('Cadiz-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-ExtraBoldItalic.eot');
+    src: local('Cadiz ExtraBold Italic'), local('Cadiz-ExtraBoldItalic'),
+        url('Cadiz-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-ExtraBoldItalic.woff2') format('woff2'),
+        url('Cadiz-ExtraBoldItalic.woff') format('woff'),
+        url('Cadiz-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-Thin.eot');
+    src: local('Cadiz Thin'), local('Cadiz-Thin'),
+        url('Cadiz-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-Thin.woff2') format('woff2'),
+        url('Cadiz-Thin.woff') format('woff'),
+        url('Cadiz-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-MediumItalic.eot');
+    src: local('Cadiz Medium Italic'), local('Cadiz-MediumItalic'),
+        url('Cadiz-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-MediumItalic.woff2') format('woff2'),
+        url('Cadiz-MediumItalic.woff') format('woff'),
+        url('Cadiz-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cadiz Ultra';
+    src: url('Cadiz-Ultra.eot');
+    src: local('Cadiz Ultra'), local('Cadiz-Ultra'),
+        url('Cadiz-Ultra.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-Ultra.woff2') format('woff2'),
+        url('Cadiz-Ultra.woff') format('woff'),
+        url('Cadiz-Ultra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-Medium.eot');
+    src: local('Cadiz Medium'), local('Cadiz-Medium'),
+        url('Cadiz-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-Medium.woff2') format('woff2'),
+        url('Cadiz-Medium.woff') format('woff'),
+        url('Cadiz-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-SemiBold.eot');
+    src: local('Cadiz SemiBold'), local('Cadiz-SemiBold'),
+        url('Cadiz-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-SemiBold.woff2') format('woff2'),
+        url('Cadiz-SemiBold.woff') format('woff'),
+        url('Cadiz-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-ExtraLightItalic.eot');
+    src: local('Cadiz ExtraLight Italic'), local('Cadiz-ExtraLightItalic'),
+        url('Cadiz-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-ExtraLightItalic.woff2') format('woff2'),
+        url('Cadiz-ExtraLightItalic.woff') format('woff'),
+        url('Cadiz-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-ExtraLight.eot');
+    src: local('Cadiz ExtraLight'), local('Cadiz-ExtraLight'),
+        url('Cadiz-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-ExtraLight.woff2') format('woff2'),
+        url('Cadiz-ExtraLight.woff') format('woff'),
+        url('Cadiz-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-Regular.eot');
+    src: local('Cadiz'), local('Cadiz-Regular'),
+        url('Cadiz-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-Regular.woff2') format('woff2'),
+        url('Cadiz-Regular.woff') format('woff'),
+        url('Cadiz-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cadiz';
+    src: url('Cadiz-Light.eot');
+    src: local('Cadiz Light'), local('Cadiz-Light'),
+        url('Cadiz-Light.eot?#iefix') format('embedded-opentype'),
+        url('Cadiz-Light.woff2') format('woff2'),
+        url('Cadiz-Light.woff') format('woff'),
+        url('Cadiz-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
